@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type= Soft&color=09D3AC&text=SangJun Lee&height=200&fontSize=50&fontColor=ffffffff&fontAlign=75&animation=fadeIn&desc=Android Developer&descAlign=80&descAlignY=80&fontAlignY=50" alt="header" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;height=300&amp;section=header&amp;text=Good%20to%20see%20you%20%F0%9F%A4%97&amp;desc=I'm%20Gihoon%20:%20%29&amp;fontSize=60&amp;fontAlignY=40&amp;descSize=25&amp;descAlignY=58&amp;animation=fadeIn" style="max-width: 100%;">
+<img src="https://user-images.githubusercontent.com/39490416/200307873-f6ff74ae-525c-46df-a5a3-3e32744877ad.svg">
 <div align=center> 
 <img src="https://img.shields.io/badge/dltkd1385@gmail.com-D9411E?style=fat&logo=Gmail&logoColor=white"> <a href="https://tin-dew-21a.notion.site/Lee-SangJun-88867d9a2e294fe59babed0c09894864"><img src="https://img.shields.io/badge/Notion-0F2346?style=fat&logo=Notion">
 </a>
@@ -21,4 +21,4 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dltkd1395&theme=solarized" width="30%" height="20%"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dltkd1395&theme=solarized" width="30%" height="10%">
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type= Soft&color=09D3AC&height=80&fontSize=50&fontColor=ffffffff&fontAlign=75&animation=fadeIn&desc=&descAlign=80&descAlignY=80&fontAlignY=50">
+<img src="https://user-images.githubusercontent.com/39490416/200308059-1824a1b0-5d73-49c8-827d-717eaea58380.svg">
