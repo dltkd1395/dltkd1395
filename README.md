@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type= Soft&color=09D3AC&text=SangJun Lee&height=200" />
 <div align=center> 
 <img src="https://img.shields.io/badge/dltkd1385@gmail.com-D9411E?style=fat&logo=Gmail&logoColor=white"> <a href="https://tin-dew-21a.notion.site/Lee-SangJun-88867d9a2e294fe59babed0c09894864"><img src="https://img.shields.io/badge/Notion-0F2346?style=fat&logo=Notion">
 </a>
