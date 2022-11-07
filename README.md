@@ -19,6 +19,6 @@ Category|Stack
 
 <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=fat&logo=Android&logoColor=white"> <img src="https://img.shields.io/badge/Firebase-D9411E?style=fat&logo=Firebase&logoColor=white"> <img src="https://img.shields.io/badge/Git-ED1C24?style=fat&logo=Git&logoColor=white">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dltkd1395&theme=solarized" width="100%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dltkd1395&theme=solarized" width="50%"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dltkd1395&theme=solarized" width="50%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dltkd1395&theme=solarized" width="50%"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dltkd1395&theme=solarized" width="50%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dltkd1395&theme=solarized" width="100%" height="100">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dltkd1395&theme=solarized" width="50%" height="100"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dltkd1395&theme=solarized" width="50%" height="100">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dltkd1395&theme=solarized" width="50%" height="100"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dltkd1395&theme=solarized" width="50%" height="100">
