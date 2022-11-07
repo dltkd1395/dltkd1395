@@ -6,7 +6,7 @@
 ### 💪 Skill
 
 |Category|Stack|
-|---|:---| 
+|---|---| 
 | `Language` | <img src="https://img.shields.io/badge/Java-4298B8?style=fat&logo=Java&logoColor=white"> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=fat&logo=Kotlin&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=fat&logo=Python&logoColor=white">|
 | `Architecture` | <img src="https://img.shields.io/badge/MVVM-EF2D5E?style=fat"> |
 | `DI` | <img src="https://img.shields.io/badge/Hilt-FF9E0F?style=fat"> |
