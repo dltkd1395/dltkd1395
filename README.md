@@ -17,15 +17,15 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1&section=header" />
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dltkd1395&theme=solarized" width="60%" height="10%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hegleB&theme=solarized" width="60%" height="10%">
 </p>
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dltkd1395&theme=solarized" width="30%" height="10%"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dltkd1395&theme=solarized" width="30%" height="10%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hegleB&theme=solarized" width="30%" height="10%"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hegleB&theme=solarized" width="30%" height="10%">
 </p>
 
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dltkd1395&theme=solarized" width="30%" height="20%"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dltkd1395&theme=solarized" width="30%" height="10%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hegleB&theme=solarized" width="30%" height="20%"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hegleB&theme=solarized" width="30%" height="10%">
 </p>
 
 <img src="https://user-images.githubusercontent.com/39490416/200308059-1824a1b0-5d73-49c8-827d-717eaea58380.svg">
